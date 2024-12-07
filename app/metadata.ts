@@ -4,8 +4,9 @@ export const siteConfig = {
   name: "Work Management Landing Page",
   description: "A modern development toolkit for building type-safe, scalable applications with best practices baked in.",
   url: "https://nextjs-work-management.vercel.app",
+  ogImage: "https://your-domain.com/og-image.jpg",
   links: {
-    github: "https://github.com/daotanhao1406/nextjs-work-management",
+    github: "https://github.com/daotanhao1406/nextjs-landing-page",
     docs: "/docs",
   },
 };
